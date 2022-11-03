@@ -80,7 +80,7 @@ Input Data Files
 ----------------
 
 -   RAW_us_confirmed_cases.csv - Consists of daily confirmed COVID cases for all counties in USA
--   
+
 -   RAW_us_deaths.csv - Consists of daily fatality count due to COVID for all counties in USA
     
 -   mask-mandate-milwaukee.csv - Mask mandate information for the Milwaukee county
